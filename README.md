@@ -2,8 +2,6 @@
 
 A robust, lightweight command-line interface (CLI) tool designed to sanitize raw sensor telemetry, aggregate device operational logs from CSV data, filter metrics based on safety thresholds, and export results into structured JSON and Matplotlib visual comparisons.
 
-Built as part of the **Software Engineering Intern Technical Assessment**.
-
 ---
 
 ## Architecture & Project Structure

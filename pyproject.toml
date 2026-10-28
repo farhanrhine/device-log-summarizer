@@ -1,0 +1,14 @@
+[project]
+name = "device-log-summarizer"
+version = "0.1.0"
+description = "Lightweight CLI tool for cleaning, aggregating, and visualizing device telemetry data."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
